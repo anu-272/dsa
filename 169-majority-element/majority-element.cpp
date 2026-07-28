@@ -17,7 +17,7 @@ public:
             if(count<=0){
                 num=i+1;
             }
-            cout<<num<<" ";
+            // cout<<num<<" ";
         }
         return nums[num];
 
